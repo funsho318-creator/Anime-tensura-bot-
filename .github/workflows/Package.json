@@ -1,0 +1,18 @@
+{
+  "name": "@YOUR_GITHUB_USERNAME/tensura-anime-bot",
+  "version": "1.0.0",
+  "description": "Tensura Anime Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_GITHUB_USERNAME/Tensura-Anime-Bot.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "license": "MIT"
+}
